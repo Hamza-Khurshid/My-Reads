@@ -1,0 +1,14 @@
+.title {
+    margin-left: 15px !important;
+    text-align: left;
+}
+
+.reading-books {
+    text-align: center !important;
+    margin: auto !important;
+}
+
+.book-item {
+    margin: 15px 0px;
+    text-align: center;
+}
